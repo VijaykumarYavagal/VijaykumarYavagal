@@ -2,27 +2,32 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # once a day
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # every day at 00:00 UTC
+  workflow_dispatch:        # allow manual run
 
+# Make sure the token can write
 permissions:
-  contents: write   # 👈 gives Actions permission to push changes
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
-      - name: Generate Snake
+      - name: Generate snake svgs
         uses: Platane/snk@v3
         with:
           github_user_name: VijaykumarYavagal
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
