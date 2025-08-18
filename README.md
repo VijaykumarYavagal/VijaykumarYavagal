@@ -132,13 +132,8 @@ Personal portfolio and interactive dashboard showcasing projects, skills, and Gi
 
 ## 🐍 Contribution Snake
 
-> (enable the workflow below once, then this image updates automatically)
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
-  </picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VijaykumarYavagal/VijaykumarYavagal/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
