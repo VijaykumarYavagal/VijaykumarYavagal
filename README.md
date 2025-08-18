@@ -87,9 +87,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-
 ## 📌 Featured Projects  
 
 ### 🧠 SignSpeak-AI  
