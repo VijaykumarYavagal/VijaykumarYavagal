@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=220&section=header&text=Welcome%20To%20My%20Profile!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ## 👋 About Me
 
-- 🔭 I’m working on: **AspireX – AI-powered career development**
+- 🔭 Current Focus: **Exploring Generative AI – Building multimodal experiences with text, speech & vision**
 - 🌱 I’m learning: **Next.js • TypeScript • Cloud Architecture**
 - 💬 Ask me about: **React, Node.js, Tailwind, APIs**
 - 🤝 Open to: **collaborations & freelance projects**
-- 📫 Reach me: **vijaykumar07yavagalgmail.com**
+- 📫 Reach me: **vijaykumar07yavagal@gmail.com**
 - ⚡ Fun fact: I connect dots others miss 😉 .
 
 ---
@@ -29,7 +29,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/vijaykumar-yavagal"><img height="32" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:vijaykumar07yavagalgmail.com"><img height="32" src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:vijaykumar07yavagal@gmail.com"><img height="32" src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://YOUR_PORTFOLIO_URL"><img height="32" src="https://skillicons.dev/icons?i=vercel" /></a>
   <a href="https://leetcode.com/YOUR_USERNAME"><img height="32" src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
@@ -125,7 +125,7 @@ Personal portfolio and interactive dashboard showcasing projects, skills, and Gi
 ## 💬 Dev Quote
 
 <p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 </p>
 
 ---
@@ -139,6 +139,5 @@ Personal portfolio and interactive dashboard showcasing projects, skills, and Gi
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F7FD5,50:86A8E7,100:91EAE4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Thanks%20for%20visiting%20my%20profile!&fontColor=ffffff&fontSize=31&fontAlignY=50" />
 </p>
-
